@@ -1,5 +1,5 @@
 # Digit-Recognizer-Detailed-Explanation-of-CNN
-A detailed explanation Convolutional Neural Network(CNN) using a practical example.
+A detailed explanation of Convolutional Neural Network(CNN) using a practical example.
 
 # Data Information
 The data files train.csv and test.csv contain gray-scale images of hand-drawn digits, from zero through nine.
