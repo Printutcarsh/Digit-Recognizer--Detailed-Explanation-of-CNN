@@ -1,4 +1,4 @@
-# Digit-Recognizer-Detailed-Explanation-of-CNN
+# Digit-Recognizer--Detailed-Explanation-of-CNN
 A detailed explanation of Convolutional Neural Network(CNN) using a practical example.
 
 # Data Information
